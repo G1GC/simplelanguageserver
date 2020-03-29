@@ -1,5 +1,5 @@
 # Introduction
-- My poor attempt to explore JavaParser APIs, to build some simple IDE features.
+- My attempt to explore JavaParser APIs, to build some simple IDE features.
 - A simple language server implementation, currently supports only jump-to-def of Java source code.
 - It's built based on the Java Parser lib - http://javaparser.org/
 - Uses sparkjava(sparkjava.com) to spin up a lightweight rest server to serve the requests
